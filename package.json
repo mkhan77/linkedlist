@@ -1,0 +1,15 @@
+{
+  "name": "technicaltask",
+  "version": "1.0.0",
+  "description": "Technical Task by DoubleDoor for Software Engineer Internship",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Mohammad Khan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
